@@ -207,7 +207,7 @@ flutter test
 
 ## License
 
-MIT License - Copyright (c) 2024 Moez Shakeri
+MIT License - Copyright (c) 2026 Moez Shakeri
 
 ## Contributing
 
