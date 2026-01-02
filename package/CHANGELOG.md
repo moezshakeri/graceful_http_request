@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 **Maintainer**: [Moez Shakeri](https://github.com/moezshakeri)  
 **Repository**: https://github.com/moezshakeri/graceful_http_request
 
+## [1.0.1] - 2026-01-03
+
+### Added
+- Added dartdoc comments to all public API elements (100% documentation coverage)
+- Added Flutter example app demonstrating package usage
+- Fixed pub.dev score issues related to documentation and examples
+
 ## [1.0.0] - 2026-01-02
 
 ### Added
